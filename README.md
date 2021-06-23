@@ -10,10 +10,10 @@ A aplicação consiste em um Bot para discord que seleciona e transmite músicas
 # Tecnologias utilizadas
 ## Back end
 - PHP
-
+<img src="https://becode.com.br/wp-content/uploads/2017/09/php-post-1.png">
 ## Front end
 - HTML / CSS / JS
-
+<img src="https://www.coderfactory.com.br/cf-assets/uploads/2019/09/curso-HTML-CSS-JS.jpeg">
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
